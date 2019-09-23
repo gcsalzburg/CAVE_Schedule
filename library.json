@@ -1,0 +1,11 @@
+{
+	"name": "CAVE_Schedule",
+	"keywords": "tasks, scheduler, events, cave,",
+	"description": "Simple task scheduler for Arduino platforms",
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/gcsalzburg/CAVE_Schedule.git"
+	},
+	"version": "0.0.1"
+}
