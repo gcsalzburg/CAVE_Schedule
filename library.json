@@ -1,11 +1,17 @@
 {
 	"name": "CAVE_Schedule",
-	"keywords": "tasks, scheduler, events, cave,",
-	"description": "Simple task scheduler for Arduino platforms",
+	"keywords": "tasks, scheduler, events",
+	"description": "Simple task scheduler to call events at regular intervals",
 	"repository":
 	{
 		"type": "git",
 		"url": "https://github.com/gcsalzburg/CAVE_Schedule.git"
 	},
+	"frameworks": "arduino",
+	"platforms":
+	[
+	  "atmelavr",
+	  "teensy"
+	],
 	"version": "0.0.1"
 }
