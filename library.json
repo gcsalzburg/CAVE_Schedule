@@ -1,11 +1,11 @@
 {
-	"name": "CAVE_Schedule",
+	"name": "CAVE_Tasks",
 	"keywords": "tasks, scheduler, events",
 	"description": "Simple task scheduler to call events at regular intervals",
 	"repository":
 	{
 		"type": "git",
-		"url": "https://github.com/gcsalzburg/CAVE_Schedule.git"
+		"url": "https://github.com/gcsalzburg/CAVE_Tasks.git"
 	},
 	"frameworks": "arduino",
 	"platforms":

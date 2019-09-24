@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <CAVE_Schedule.h>
+#include <CAVE_Tasks.h>
 
 // Define a couple of functions
 uint16_t i=0;

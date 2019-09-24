@@ -1,5 +1,5 @@
 #include "Arduino.h"
-#include "CAVE_Schedule.h"
+#include "CAVE_Tasks.h"
 
 CAVE::Task* tasks = 0;
 uint16_t 	num_tasks = 0;

@@ -1,5 +1,5 @@
-#ifndef CAVE_SCHEDULE_H_
-#define CAVE_SCHEDULE_H_
+#ifndef CAVE_TASKS_H_
+#define CAVE_TASKS_H_
 
 #include "Arduino.h"
 
@@ -29,4 +29,4 @@ namespace CAVE{
 // Redefine tasks_register to include array size
 #define tasks_register(c) tasks_register_with_cnt(c, (sizeof(c)/sizeof(c[0])) )
 
-#endif /* CAVE_SCHEDULE_H_ */
+#endif /* CAVE_TASKS_H_ */
