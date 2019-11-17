@@ -15,7 +15,7 @@ void print_hello(){
 }
 
 // Create task to print Hello every second
-CAVE::Task my_task(increment_counter, 1000);
+CAVE::Task my_task(print_hello, 1000);
 
 void setup() {
    Serial.begin(9600); // Start Serial (for demo)
